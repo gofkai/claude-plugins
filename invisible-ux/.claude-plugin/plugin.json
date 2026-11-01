@@ -1,0 +1,10 @@
+{
+  "name": "invisible-ux",
+  "description": "UX audits and reviews with the \"Invisible & Lean\" framework: plan-audit before you build, impl-review after. Iterates until nothing is left to fix.",
+  "version": "1.0.0",
+  "author": { "name": "Truong Le (Kai)", "url": "https://github.com/gofkai" },
+  "homepage": "https://github.com/gofkai/claude-plugins",
+  "repository": "https://github.com/gofkai/claude-plugins",
+  "license": "MIT",
+  "keywords": ["ux", "audit", "design-review", "accessibility", "microcopy"]
+}

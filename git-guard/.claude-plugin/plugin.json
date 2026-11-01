@@ -1,0 +1,10 @@
+{
+  "name": "git-guard",
+  "description": "Blocks agent pushes to protected branches, plus one-line commits and reviewer-first PR/MR descriptions.",
+  "version": "1.0.0",
+  "author": { "name": "Truong Le (Kai)", "url": "https://github.com/gofkai" },
+  "homepage": "https://github.com/gofkai/claude-plugins",
+  "repository": "https://github.com/gofkai/claude-plugins",
+  "license": "MIT",
+  "keywords": ["git", "hooks", "safety", "commit", "pull-request"]
+}

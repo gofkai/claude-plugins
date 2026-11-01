@@ -1,0 +1,20 @@
+{
+  "name": "gofkai",
+  "description": "Claude Code plugins by Truong Le (Kai): a UX audit framework for coding agents and git guardrails.",
+  "owner": {
+    "name": "Truong Le (Kai)",
+    "url": "https://github.com/gofkai"
+  },
+  "plugins": [
+    {
+      "name": "invisible-ux",
+      "source": "./invisible-ux",
+      "description": "UX audits and reviews with the \"Invisible & Lean\" framework: plan-audit before you build, impl-review after. Iterates until nothing is left to fix."
+    },
+    {
+      "name": "git-guard",
+      "source": "./git-guard",
+      "description": "Blocks agent pushes to protected branches, plus one-line commits and reviewer-first PR/MR descriptions."
+    }
+  ]
+}
